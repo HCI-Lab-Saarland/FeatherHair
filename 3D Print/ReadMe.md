@@ -1,4 +1,4 @@
-## Field Prototype (Real-Time Gesture Recognition)
+## 3D Model
 
 Contains
 
